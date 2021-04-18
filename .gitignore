@@ -1,2 +1,4 @@
 .idea
 venv
+ayarlar.py
+__pycache__
